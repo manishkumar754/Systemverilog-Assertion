@@ -1,0 +1,6 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Info:                    0Info: ---Assertion Passed
+Time: 0 ps  Iteration: 0  Process: /assert_sigAB/Always23_2  File: C:/Users/manis/Desktop/systemVerilog/SVA_Vivado/assert_sigAB/assert_sigAB.srcs/sources_1/new/assert_sigAB.sv
+Info:                   50Info: ---Assertion Passed
+Time: 50 ns  Iteration: 0  Process: /assert_sigAB/Always23_2  File: C:/Users/manis/Desktop/systemVerilog/SVA_Vivado/assert_sigAB/assert_sigAB.srcs/sources_1/new/assert_sigAB.sv

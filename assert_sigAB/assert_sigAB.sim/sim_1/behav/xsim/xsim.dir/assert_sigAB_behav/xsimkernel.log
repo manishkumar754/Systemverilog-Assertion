@@ -1,0 +1,7 @@
+Running: xsim.dir/assert_sigAB_behav/xsimk.exe -simmode gui -wdb assert_sigAB_behav.wdb -simrunnum 0 -socket 49675
+Design successfully loaded
+Design Loading Memory Usage: 6304 KB (Peak: 6304 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 6948 KB (Peak: 6948 KB)
+Simulation CPU Usage: 30 ms
