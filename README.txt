@@ -46,4 +46,18 @@
      
 
 16. (assert_countones) Write assertion for 8 bit gnt signal as only one set bit if there is only 1 set bit?
+
+17.  (assert_sigAB) As long as signal A is still up signal B should not be asserted.
+
+18.   (assert-sigABC) The signals sig a and sig b may only be asserted if sig c is asserted. 
+
+19.  (assert_test12) If sig a is received while sig b is inactive, then on the next cycle sig c must be
+     inactive,and sig b must be asserted.
+
+20.   (assert_test13) There exists a transaction that reaches its end either sig a or sig_b.
+     
+       
+       
+
+       
           
